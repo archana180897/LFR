@@ -1,2 +1,2 @@
 # LFR
-Codes for LF_R paper
+Code accompanying our paper titled "An Arbitrarily Higher-Order Time Implicit Scheme for Maxwell's Equations"
